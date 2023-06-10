@@ -21,3 +21,5 @@ Desktop.ini
 /Temp
 
 /*.mp4
+/ios-build*
+/obj
