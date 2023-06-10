@@ -1,0 +1,24 @@
+{
+    "name": "Klak.TestTools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9054d6e0d0c694d44a0d05e070ae54f9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.keijiro.klak.ndi",
+            "expression": "2.0.0",
+            "define": "KLAK_NDI_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}
