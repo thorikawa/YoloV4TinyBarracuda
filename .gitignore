@@ -22,4 +22,5 @@ Desktop.ini
 
 /*.mp4
 /ios-build*
+/android-build*
 /obj
